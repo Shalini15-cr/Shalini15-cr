@@ -11,9 +11,9 @@
 
 - 🎓 B.Tech CSBS student at **V.S.B Engineering College, Karur**
 - 📈 Current CGPA: **8.4**
-- 🌱 Currently learning **Java, Data Structures & Algorithms, SQL, Cloud Computing, AI and Web Development**
-- 💻 Interested in **Software Development, Cybersecurity, AI, Cloud Computing and Full Stack Development**
-- 🚀 Passionate about solving real-world problems through technology
+- 🌱 Currently learning  Java, Data Structures & Algorithms, SQL, Cloud Computing, AI and Web Development , Management and Business .
+- 💻 Interested in Finance and Business sector , Cybersecurity, AI, Cloud Computing .
+- 🚀 Passionate 
 - 📚 Consistently improving coding and problem-solving skills
 - 📫 Reach me at **shaliniramachandran951@gmail.com**
 
@@ -30,11 +30,10 @@
 - JavaScript
 
 ## ⚙️ Tools & Technologies
-- Git
 - GitHub
 - VS Code
 - MySQL
-- SQLite
+-
 - Docker (Learning)
 - Node.js (Learning)
 - Express.js (Learning)
@@ -51,6 +50,7 @@ Developed a Library Management System to efficiently manage books, student recor
 
 ### 📝 Online Quiz Management System
 Built a Java-based quiz application with automated scoring and efficient quiz management using SQL.
+
 
 ---
 
@@ -71,8 +71,7 @@ Built a Java-based quiz application with automated scoring and efficient quiz ma
 # 🏅 Achievements
 
 - 🎯 Active Participant in **Ideathon Technical Event (2025)**
-- 💡 Regularly practicing Data Structures & Algorithms
-- 🌱 Continuously learning new technologies and building projects
+- 🌱 Continuously learning new technologies 
 
 ---
 
@@ -131,9 +130,8 @@ Built a Java-based quiz application with automated scoring and efficient quiz ma
 </p>
 
 # 💡 Quote
-
-> "Learning never exhausts the mind. Every project is an opportunity to grow."
+"Learn" "Earn" "Explore"
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
+ Thank you for visiting my GitHub profile! Feel free to explore my repositories 

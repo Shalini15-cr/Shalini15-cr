@@ -114,11 +114,21 @@ Built a Java-based quiz application with automated scoring and efficient quiz ma
 
 ---
 
-# 📈 GitHub Activity Graph
+## 📊 GitHub Analytics
 
-[![Shalini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalini15-cr&theme=tokyo-night)](https://github.com/Shalini15-cr)
+<p align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shalini15-cr&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalini15-cr&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shalini15-cr&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 # 💡 Quote
 

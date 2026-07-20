@@ -10,10 +10,10 @@
 # 👩‍💻 About Me
 
 - 🎓 B.Tech CSBS student at **V.S.B Engineering College, Karur**
-- 📈 Current CGPA: **8.4**
+- 📈 Current CGPA: **8.45**
 - 🌱 Currently learning  Java, Data Structures & Algorithms, SQL, Cloud Computing, AI and Web Development , Management and Business .
 - 💻 Interested in Finance and Business sector , Cybersecurity, AI, Cloud Computing .
-- 🚀 Passionate 
+- 🚀 Passionate Exploring the intersection of Business Analytics, FinTech, and Computer Science.
 - 📚 Consistently improving coding and problem-solving skills
 - 📫 Reach me at **shaliniramachandran951@gmail.com**
 
